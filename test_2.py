@@ -17,5 +17,28 @@ Number of grades:
 Average grade:
 
 Percentage of grades above average: 
+"""
 
+"""
+
+#calculate_percent_above_average
+count = 0
+for grade in grades 
+    if grade > avg 
+return  (x * 100) / len(grades)
+
+#main 
+f = open('Final.txt')
+grades = []
+for line in f: 
+    grades.append
+"Number of grades:"
+avg = 0
+for grade in grades:
+    avg += grade
+avg /= len(grades)
+"Average grade:", avg
+"Percentage of grades above average:"
+
+main
 """
